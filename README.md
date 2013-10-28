@@ -3,7 +3,7 @@ Fragmenter
 
 Fragment a hard disk for test purposes
 
-Yes, you read right.  Fragment a ahsrd disk.
+Yes, you read right.  Fragment a hard disk.
 
 This code will allow you to fragment a hard disk so you can compare disk transfer speed, input\output (IO) stats snd anything else you may wish to play around with.
 
